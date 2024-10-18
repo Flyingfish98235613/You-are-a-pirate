@@ -1,0 +1,6 @@
+ background-image: url('IMG_2938.jpg'); /* Replace with the path to your image */
+    background-size: cover; /* This makes the image cover the whole background */
+    background-position: center; /* This centers the image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-attachment: fixed; /* This keeps the image fixed when scrolling */
+}
